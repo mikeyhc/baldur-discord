@@ -1,0 +1,5 @@
+-define(API_HOST, "discordapp.com").
+-define(API_PATH, "/api/v6").
+-define(GATEWAY_HOST, "gateway.discord.gg").
+-define(GATEWAY_ARGS, "/v=6&encoding=json").
+-define(GATEWAY_PORT, 443).
